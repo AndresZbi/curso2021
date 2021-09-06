@@ -1,0 +1,58 @@
+/* FUENTE */
+/* font-family: 'Allerta Stencil', sans-serif;
+font-family: 'Be Vietnam', sans-serif;
+font-family: 'Jua', sans-serif; */
+
+p{
+    font-family: 'Be Vietnam', sans-serif;
+    color: purple;
+    font-style: oblique;
+    font-weight: bold;
+}
+ul{
+    color: blueviolet;
+    font-style: oblique;
+}
+h1{
+    font-family: 'Allerta Stencil', sans-serif;
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 45px;
+    background-color: plum;
+    box-sizing: border-box;
+    border-radius: 100px;
+    box-shadow: 0 0 20px purple;
+}
+h2,h3,h4{
+    font-family: 'Jua', sans-serif;
+    color: rebeccapurple;
+    text-transform: uppercase;
+    text-align: center;
+    font-style: inherit;
+    font-size: 14px;
+    background-color: plum;
+    box-sizing: border-box;
+    border-radius: 100px;
+    box-shadow: 0 0 20px purple;
+}
+.bomb{
+    width: 34px;
+    font-size: 33px;
+    color: darkmagenta;
+    border-radius: 190px;
+    box-sizing: border-box;
+    box-shadow: 0 0 43px darkred;
+
+}
+h5{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.pruebacv{
+    color: coral;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+}
