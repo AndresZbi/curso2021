@@ -1,0 +1,13 @@
+/*font-family: 'Asap Condensed', sans-serif;
+/* font-family: 'Qahiri', sans-serif; */  /* FUENTES*/
+H1, H2 {
+    font-family: 'Qahiri', sans-serif;
+    font-size: 50px; /* agrandar letra */
+        
+}
+h2{
+    color: cadetblue;
+}
+p{
+    font-family: 'Asap Condensed', sans-serif;
+}

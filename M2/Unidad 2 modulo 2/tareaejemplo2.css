@@ -1,0 +1,41 @@
+#contenedor{
+    background: white;
+    /* border-color: black 10px; */
+    height: 450px;
+    display: flex;
+    
+    flex-direction: row-reverse;
+    justify-content: center;
+    /* flex-direction: column; */
+    /* align-content: center; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    align-items: center;
+    /* align-items: stretch; */
+    /* align-items: baseline;  */
+}
+
+#item1{
+    background: red;
+    color: white;
+    font-size: 20px;
+    height: 150px;
+    text-align: center;
+    width: 150px;
+}
+#item2{
+    color: white;
+    background: blue;
+    font-size: 20px;
+    height: 150px;
+    text-align: center;
+    width: 150px;
+}
+#item3{
+    color: white;
+    background: green;
+    font-size: 20px;
+    height: 150px;
+    text-align: center;
+    width: 150px;
+}

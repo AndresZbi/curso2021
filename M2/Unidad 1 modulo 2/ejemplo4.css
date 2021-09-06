@@ -1,0 +1,19 @@
+.caja{
+    color: chartreuse;
+    font-size: 50px;
+    width: 200px; /* ancho */
+    text-align: center; /* texto centrado */
+    padding: 30px;
+    background-color: purple;
+    border-radius: 160px;
+    box-shadow: 0 0 35px rebeccapurple;
+}
+.caja p{
+    font-size: 20px;
+    color: cornflowerblue;
+}
+.caja i{
+    font-size: 90px;
+    background-color: plum;
+    border-radius: 10px;
+}

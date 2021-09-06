@@ -1,0 +1,36 @@
+#contenedor{
+    background: white;
+    /* border-color: black 10px; */
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#item1{
+    /* align-items: center; */
+    /* text-align: justify; */
+    justify-content: center;
+    background: red;
+    color: white;
+    font-size: 20px;
+    height: 150px;
+    text-align: center;
+    width: 150px;
+}
+#item2{
+    color: white;
+    background: blue;
+    font-size: 20px;
+    height: 150px;
+    text-align: center;
+    width: 150px;
+}
+#item3{
+    color: white;
+    background: green;
+    font-size: 20px;
+    height: 150px;
+    text-align: center;
+    width: 150px;
+}

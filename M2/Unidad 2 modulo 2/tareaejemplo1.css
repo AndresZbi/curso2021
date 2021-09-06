@@ -1,0 +1,69 @@
+.contenedor{
+    /* background: white; */
+    /* border-color: black 10px; */
+    /* height: 500px; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-content: center; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    /* align-items: center; */
+    /* align-items: stretch; */
+    /* align-items: baseline;  */
+    border: 2px solid black;
+    width: 450px;
+    height: 450px;
+    margin:auto;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+/* ESTO LO HIZO LA PROFESORA */
+.caja{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item1{
+    /* ESTO LO HICE YO */
+    /* align-items: center; */
+    /* text-align: justify; */
+    /* background: red; */
+    /* color: white; */
+    /* font-size: 20px; */
+    /* height: 150px; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* width: 150px; */
+    /* ESTO LO HIZO LA PROFESORA */
+    background-color: red;
+    color: white;
+}
+
+.item2{
+    /* ESTO LO HICE YO */
+    /* color: white; */
+    /* background: blue; */
+    /* font-size: 20px; */
+    /* height: 150px; */
+    /* text-align: center; */
+    /* width: 150px; */
+    /*  ESTO LO HIZO LA PROFESORA */
+    background-color: blue;
+    color: white;
+}
+.item3{
+    /* ESTO LO HICE YO  */
+    /* color: white; */
+    /* background: green; */
+    /* font-size: 20px; */
+    /* height: 150px; */
+    /* text-align: center; */
+    /* width: 150px; */
+    /* ESTO LO HIZO LA PROFESORA  */
+    background-color: green;
+    color: white;
+}

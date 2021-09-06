@@ -1,0 +1,9 @@
+.caja{
+    background-color: yellowgreen; /* fondo*/
+    column-count: 3; /* cantidad de columnas */
+    column-gap: 100px; /* espacio entre columnas */
+    column-rule:10px solid white; /* lineas entre columnas */
+}
+.caja p{    /* margenes de p en 0 */
+    margin: 0;
+}
